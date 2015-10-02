@@ -16,6 +16,6 @@ Toiminnallisia luukkuja ovat ainakin:
 * Kuulalabyrintti (toinen versio)
 * Tietovisa (kaksi erilaista versiota tai sitten yhteistyössä enemmän kysymyksiä)
 
-## Työkalt
+## Työkalut
 
 Peliosio toteutetaan Construct 2 -pelinkehitysohjelmistolla. Grafiikat esimerkiksi Photoshopilla. Tasosuunnittelu tarvittaessa [Tiled-ohjelmistolla](http://www.mapeditor.org).
