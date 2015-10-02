@@ -4,7 +4,7 @@ Teemme vanhuksille digitaalisen joulukalenterin. Luukkujen takana on erilaisia p
 
 Kalenteri toteutetaan [Mobiilituotanto-kurssin](https://moodle.xamk.fi/course/view.php?id=11439) harjoitustyönä. Kurssin Moodle-sivusto on vielä työn alla...
 
-### Pienempi otsikko
+### Toiminnot
 
 Toiminnallisia luukkuja ovat ainakin:
 
