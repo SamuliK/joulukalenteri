@@ -1,8 +1,6 @@
-# joulukalenteri
+# Joulukalenteri
 
-Muokkaan README-tiedostoa suoraan Githubin webissä.
-
-Tekstiä voi *lihavoida* tai _kursivoida_ tai _*molempia*_.
+Teemme vanhuksille digitaalisen joulukalenterin. Luukkujen takana on erilaisia pelejä, kuvia ja ääntä. Kalenterin tarkoitus on toimia muistelun tukena. Osa peleistä kehittää muistia tai muutoin aktivoi aivotoimintaa. Kalenterin kuvat ja äänet valitaan 40-50-lukujen teemoista. Sotaa tai ahdistavia aiheita vältetään.
 
 ## Pienempi otsikko
 
