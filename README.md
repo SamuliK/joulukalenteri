@@ -15,3 +15,7 @@ Toiminnallisia luukkuja ovat ainakin:
 * Oldskool-fortuna (vai tuleeko kuulalabyrintti?)
 * Kuulalabyrintti (toinen versio)
 * Tietovisa (kaksi erilaista versiota tai sitten yhteistyössä enemmän kysymyksiä)
+
+## Työkalt
+
+Peliosio toteutetaan Construct 2 -pelinkehitysohjelmistolla. Grafiikat esimerkiksi Photoshopilla. Tasosuunnittelu tarvittaessa [Tiled-ohjelmistolla](http://www.mapeditor.org).
